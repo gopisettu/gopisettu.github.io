@@ -1,0 +1,9 @@
+body{
+    background-color: black;
+}
+fieldset{
+
+    color:white;
+    padding:1rem;
+    }
+    legend{ text-align:center}
